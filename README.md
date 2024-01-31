@@ -2,7 +2,7 @@
 
 
 <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Oswald&pause=1000&color=E5E5E5&center=true&vCenter=true&random=false&width=435&lines=Student+at+Universit%C3%A9+libre+de+Bruxelles;Second+year+Bachelor+in+Computer+Sciences" alt="Typing SVG" /></a></p>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Oswald&pause=1000&color=FFFFFF&center=true&vCenter=true&random=false&width=435&lines=Student+at+Universit%C3%A9+libre+de+Bruxelles;Second+year+Bachelor+in+Computer+Sciences" alt="Typing SVG" /></a></p>
 
 
 <h3 align="center">Student at ULB in my second year of Bachelor's in Computer Sciences.</h3>
