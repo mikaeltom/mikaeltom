@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=35&center=true&vCenter=true&width=500&height=70&lines=Welcome+to+My+GitHub!;I'm+Mikael+TOM" />
-</p>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=100&pause=1000&color=EC4D37&random=false&width=495&lines=Student+at+Universit%C3%A9+libre+de+Bruxelles;Second+year+Bachelor+in+Computer+Sciences." alt="Typing SVG" /></a>
 
 
 <h1 align="center">Hi, I'm Mikael TOM</h1>
