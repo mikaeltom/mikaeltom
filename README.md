@@ -1,6 +1,6 @@
 
 <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=100&pause=1000&color=EC4D37&random=false&width=495&lines=Student+at+Universit%C3%A9+libre+de+Bruxelles;Second+year+Bachelor+in+Computer+Sciences." alt="Typing SVG" /></a> </p>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=100&pause=1000&color=E5E5E5&random=false&width=495&lines=Student+at+Universit%C3%A9+libre+de+Bruxelles;Second+year+Bachelor+in+Computer+Sciences." alt="Typing SVG" /></a> </p>
 
 
 <h1 align="center">Hi, I'm Mikael TOM</h1>
