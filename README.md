@@ -1,6 +1,29 @@
-<h1 align="center">Mikael TOM</h1>
+<h1 align="left">My Github profile</h1>
 
-<h3 align="center"> Studying Computer Sciences at Université libre de Bruxelles | Second-year Bachelor's student </h3>
+###
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+<p align="left">I am Mikael Tom, a dedicated student currently pursuing my Bachelor in Computer Science at ULB.</p>
+
+###
+
+<h2 align="left">About me</h2>
+
+###
+
+<p align="left">📍From Belgium, Bruxelles<br>📚 Studying at Université libre de Bruxelles<br>👨🏻‍💻Second-year Bachelor of Computer Science</p>
+
+###
+
+<h2 align="left">Langages and tools</h2>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+</div>
+
+###
