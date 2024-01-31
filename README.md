@@ -1,9 +1,10 @@
+<h1 align="center">Mikael TOM</h1>
+
 
 <p align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=100&pause=1000&color=E5E5E5&random=false&width=495&lines=Student+at+Universit%C3%A9+libre+de+Bruxelles;Second+year+Bachelor+in+Computer+Sciences." alt="Typing SVG" /></a> </p>
 
 
-<h1 align="center">Hi, I'm Mikael TOM</h1>
 <h3 align="center">Student at ULB in my second year of Bachelor's in Computer Sciences.</h3>
 
 <h3 align="left">Connect with me:</h3>
