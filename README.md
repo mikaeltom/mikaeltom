@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Welcome+to+My+GitHub!;I'm+Mikael+TOM.">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Welcome+to+My+GitHub!;I'm+Mikael+TOM">
 </p>
+
 
 <h1 align="center">Hi, I'm Mikael TOM</h1>
 <h3 align="center">Student at ULB in my second year of Bachelor's in Computer Sciences.</h3>
