@@ -2,15 +2,7 @@
 
 ###
 
-<p align="left">I am Mikael Tom, a dedicated student currently pursuing my Bachelor in Computer Science at ULB.</p>
-
-###
-
-<h2 align="left">About me</h2>
-
-###
-
-<p align="left">📍From Belgium, Bruxelles<br>📚 Studying at Université libre de Bruxelles<br>👨🏻‍💻Second-year Bachelor of Computer Science</p>
+<p align="left">Bachelor in Computer Science at ULB.</p>
 
 ###
 
